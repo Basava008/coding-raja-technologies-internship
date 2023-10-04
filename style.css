@@ -1,0 +1,33 @@
+#cv-template{
+    display:none;
+  
+    
+}
+.myimg{
+    border:1px solid black;
+    border-radius: 50%;
+    width: 200px;   
+}
+.background{
+    background-color:rgba(181, 177, 165, 0.224);
+}   
+body{
+    background-color:#727666;
+ 
+}
+.ab{
+    background-color: #acbb90;
+}
+.form-control{
+    display: block;
+    width: 100%; /* THIS */
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #170e0e; /* THIS */
+    background-color: #e8cfcf;
+    background-image: none;
+    border: 2px solid #ccc; /* THIS */
+    border-radius: 8px; /* THIS */
+  }
